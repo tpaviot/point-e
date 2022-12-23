@@ -18,7 +18,7 @@ setup(
         "requests",
         "tqdm",
         "matplotlib",
-        "scikit-image",
+        "scikit-image==0.19.3",
         "scipy",
         "numpy",
         "clip @ git+https://github.com/openai/CLIP.git",
